@@ -5426,31 +5426,6 @@
       ]
    },
    {
-      "name": "United States Minor Outlying Islands",
-      "isoCode": "UM",
-      "flag": "🇺🇲",
-      "phonecode": "1",
-      "currency": "USD",
-      "latitude": "0.00000000",
-      "longitude": "0.00000000",
-      "timezones": [
-         {
-            "zoneName": "Pacific/Midway",
-            "gmtOffset": -39600,
-            "gmtOffsetName": "UTC-11:00",
-            "abbreviation": "SST",
-            "tzName": "Samoa Standard Time"
-         },
-         {
-            "zoneName": "Pacific/Wake",
-            "gmtOffset": 43200,
-            "gmtOffsetName": "UTC+12:00",
-            "abbreviation": "WAKT",
-            "tzName": "Wake Island Time"
-         }
-      ]
-   },
-   {
       "name": "Uruguay",
       "isoCode": "UY",
       "flag": "🇺🇾",
