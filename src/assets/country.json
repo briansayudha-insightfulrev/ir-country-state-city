@@ -72,24 +72,6 @@
       ]
    },
    {
-      "name": "American Samoa",
-      "isoCode": "AS",
-      "flag": "🇦🇸",
-      "phonecode": "+1-684",
-      "currency": "USD",
-      "latitude": "-14.33333333",
-      "longitude": "-170.00000000",
-      "timezones": [
-         {
-            "zoneName": "Pacific/Pago_Pago",
-            "gmtOffset": -39600,
-            "gmtOffsetName": "UTC-11:00",
-            "abbreviation": "SST",
-            "tzName": "Samoa Standard Time"
-         }
-      ]
-   },
-   {
       "name": "Andorra",
       "isoCode": "AD",
       "flag": "🇦🇩",
@@ -2186,24 +2168,6 @@
       ]
    },
    {
-      "name": "Guam",
-      "isoCode": "GU",
-      "flag": "🇬🇺",
-      "phonecode": "+1-671",
-      "currency": "USD",
-      "latitude": "13.46666666",
-      "longitude": "144.78333333",
-      "timezones": [
-         {
-            "zoneName": "Pacific/Guam",
-            "gmtOffset": 36000,
-            "gmtOffsetName": "UTC+10:00",
-            "abbreviation": "CHST",
-            "tzName": "Chamorro Standard Time"
-         }
-      ]
-   },
-   {
       "name": "Guatemala",
       "isoCode": "GT",
       "flag": "🇬🇹",
@@ -3728,24 +3692,6 @@
             "gmtOffsetName": "UTC+12:00",
             "abbreviation": "NFT",
             "tzName": "Norfolk Time"
-         }
-      ]
-   },
-   {
-      "name": "Northern Mariana Islands",
-      "isoCode": "MP",
-      "flag": "🇲🇵",
-      "phonecode": "+1-670",
-      "currency": "USD",
-      "latitude": "15.20000000",
-      "longitude": "145.75000000",
-      "timezones": [
-         {
-            "zoneName": "Pacific/Saipan",
-            "gmtOffset": 36000,
-            "gmtOffsetName": "UTC+10:00",
-            "abbreviation": "ChST",
-            "tzName": "Chamorro Standard Time"
          }
       ]
    },
